@@ -1,5 +1,4 @@
 matplotlib==3.*
 pandas
 scikit-learn
-math
 pylab
