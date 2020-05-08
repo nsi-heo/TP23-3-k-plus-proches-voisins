@@ -1,6 +1,5 @@
 matplotlib==3.*
 pandas
 scikit-learn
-random
 math
 pylab
